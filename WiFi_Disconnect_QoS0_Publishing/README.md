@@ -7,6 +7,8 @@ em đã làm được:
 - Thiết lập kết nối mã hóa TLS từ Client dùng chứng chỉ ca_cert cung cấp bởi HiveMQ
 - Fork Repo & Lặp lại thí nghiệm 2 như trong repo đã cung cấp. 
 
+khi em ngắt kết nối wifi và bật lại thì thấy thiết bị tự động kết nối lại được
+
 em không phải thay đổi code trong file main
 em có tải ca_cert về, tạo thư mục secrets và tạo hai file là mqtt.h và wifi.h trong đó. 
 sau đó nạp code là chạy được. dùng teleplot để xem. trên web thì ghi tên topic là esp32/echo_test là xem được
